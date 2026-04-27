@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+conda-meta/
+
+# Large data / model files
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
